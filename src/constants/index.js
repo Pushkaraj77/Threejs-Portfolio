@@ -188,7 +188,7 @@ const projects = [
   {
     name: "Real Estate | Yariga",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A web-based platform that allows users to perform CRUD operations and post properties & it uses Refine for creating avanced admin panel & deliver smooth user experience.",
     tags: [
       {
         name: "typescript",
@@ -210,7 +210,7 @@ const projects = [
   {
     name: "Web3 Donations | Vow",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Blockchain based Crowd-funding based on Ethereum network and uses smart contract to keep track of user donations, contains MetaMask Wallet Integration.",
     tags: [
       {
         name: "react",
@@ -232,7 +232,7 @@ const projects = [
   {
     name: "Portfolio | Yugma",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An Organization portfolio using modern website design to build visually appealing User Interface",
     tags: [
       {
         name: "react",
@@ -254,7 +254,7 @@ const projects = [
   {
     name: "Portfolio | PIIMH",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Gatsby framework based client portfolio built using Content Management System(CMS) and REST APIS to fetch data using GraphQL query.",
     tags: [
       {
         name: "gatsby",
@@ -276,7 +276,7 @@ const projects = [
   {
     name: "Car Dealership",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive Car dealership platform that allows user to search for vehicles using different filters, it is based on DRUPAL.",
     tags: [
       {
         name: "javascript",
@@ -298,7 +298,7 @@ const projects = [
   {
     name: "Personal Portfolio",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Portfolio website which makes use of 3D models & three.js capabilities, along with framer motion to make dynamic designs.",
     tags: [
       {
         name: "threejs",
@@ -314,8 +314,8 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/",
-    demo_link: "https://propertyestate.netlify.app/",
+    source_code_link: "https://github.com/Pushkaraj77/Threejs-Portfolio",
+    demo_link: "https://pushkaraj-portfolio.netlify.app/",
   },
 ];
 
